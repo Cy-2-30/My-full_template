@@ -3,7 +3,7 @@
 
 ## Dieketseng Lebuli
 ![]()
-[GitHub]()
+[GitHub](http://deecynleb.me/Resume-/)
 
 ### Table of Content
 
