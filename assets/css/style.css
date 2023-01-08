@@ -1,10 +1,10 @@
 /* CSS HEX
---cafe-au-lait: #aa7c4bff;
---papaya-whip: #fff0d2ff;
---cafe-noir: #56482fff;
---castleton-green: #205a3eff;
---golden-brown: #956323ff;
---dark-jungle-green: #011412ff;
+--cafe-au-lait: #AA7C4B;
+--papaya-whip: #FFF0D2;
+--cafe-noir: #56482F;
+--castleton-green: #205A3E;
+--golden-brown: #956323;
+--dark-jungle-green: #011412;
  */
  *{
     padding: 0;
@@ -13,6 +13,7 @@
 body{
     display: flex;
     flex-direction: column;
+    flex-flow: row;
     color: #011412;
     font-size: 12px;
     min-height: 100vh;
@@ -21,7 +22,22 @@ body{
 
   /* header*/
   header, footer{
+    background-color: #205A3E;
+    color: #F011412;
+   
+  }
+  .projects{
+    background-color: #56482F;
+    color: #FFF0D2;
+  }
+
+  .work-experience{
     background-color: #AA7C4B;
+    color: #;
+  }
+  .education{
+    background-color: #656B45;
+    color: #FFF0D2;
   }
 
     /*footer*/

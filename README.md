@@ -1,5 +1,5 @@
 # Resume
-![Dee](assets/images/Logo-4kb-250x250.png)
+![Dee](assets/images/imageedit_32_5393204967%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png)
 
 ## Dieketseng Lebuli
 ![]()
