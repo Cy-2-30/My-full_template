@@ -19,6 +19,11 @@ body{
     width: 100%;
   }  
 
+  /* header*/
+  header, footer{
+    background-color: #AA7C4B;
+  }
+
     /*footer*/
     #footnotes{
       display: flex;
