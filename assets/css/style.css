@@ -1,11 +1,11 @@
 /* CSS HEX
---cafe-au-lait: #AA7C4B;
---papaya-whip: #FFF0D2;
---cafe-noir: #56482F;
 --castleton-green: #205A3E;
---golden-brown: #956323;
+--cafe-noir: #56482F;
+--cafe-au-lait: #AA7C4B;
+--dark-olive-green: #656B45;
 --dark-jungle-green: #011412;
- */
+--papaya-whip: #FFF0D2;
+*/
  *{
     padding: 0;
     margin: 0;
